@@ -1,0 +1,2208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Q",
+				"Quad3D"
+			],
+			[
+				"tex",
+				"texture_width"
+			],
+			[
+				"t",
+				"texture_width"
+			],
+			[
+				"u",
+				"uUvScale"
+			],
+			[
+				"glGetUniform",
+				"glGetUniformLocation"
+			],
+			[
+				"texture",
+				"texture_width"
+			],
+			[
+				"c",
+				"cwd"
+			],
+			[
+				"Sha",
+				"Shaders"
+			],
+			[
+				"Spr",
+				"SpriteComponent"
+			],
+			[
+				"Sprite",
+				"SpriteComponent"
+			],
+			[
+				"R",
+				"Renderer"
+			],
+			[
+				"sprite",
+				"sprite_renderer_"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"cmake",
+				"cmake_build"
+			],
+			[
+				"cma",
+				"cmake_build"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "xv6-labs-2025/user/sleep.c",
+			"redo_stack":
+			[
+				[
+					33,
+					1,
+					"paste",
+					null,
+					"AQAAACQAAAAAAAAAJAAAAAAAAAAbAAAAUFJPTVBUPSduZXduYW1lQCVtICUxfiAlIyAn",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 37,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "sleep"
+					},
+					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					5,
+					"left_delete",
+					null,
+					"BQAAAAQAAAAAAAAABAAAAAAAAAABAAAAcAMAAAAAAAAAAwAAAAAAAAABAAAAZQIAAAAAAAAAAgAAAAAAAAABAAAAZQEAAAAAAAAAAQAAAAAAAAABAAAAbAAAAAAAAAAAAAAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "#include"
+					},
+					"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAAkAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "user."
+					},
+					"BQAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAA4AAAAAAAAADgAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "/uer"
+					},
+					"BAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					2,
+					"left_delete",
+					null,
+					"AgAAABEAAAAAAAAAEQAAAAAAAAABAAAAchAAAAAAAAAAEAAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "ser.h"
+					},
+					"BQAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line.sublime-macro",
+						"register": "\""
+					},
+					"AQAAABYAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAABgAAAAAAAAAGAAAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "int"
+					},
+					"AwAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " main"
+					},
+					"BQAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAACAAAAAAAAAAIgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAACMAAAAAAAAAJQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "",
+								"range":
+								{
+									"end":
+									{
+										"character": 0,
+										"line": 4
+									},
+									"start":
+									{
+										"character": 12,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": "Format on Save",
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAACQAAAAAAAAAJAAAAAAAAAADAAAACgkK",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "xv6-labs-2025/user/echo.c",
+			"settings":
+			{
+				"buffer_size": 296,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"CMake Default",
+					""
+				],
+				[
+					"CMake Default",
+					"Build Main"
+				],
+				[
+					"CMake Default",
+					"Run Musashi (External)"
+				],
+				[
+					"CMake Default",
+					"Run: main"
+				]
+			],
+			[
+				"CMake Default",
+				"Build Main"
+			]
+		],
+		[
+			[
+				[
+					"CMakeBuilder",
+					""
+				],
+				[
+					"CMakeBuilder",
+					"Run Musashi"
+				]
+			],
+			[
+				"CMakeBuilder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Dead Verse",
+					""
+				],
+				[
+					"Dead Verse",
+					"Run"
+				],
+				[
+					"Dead Verse",
+					"Build"
+				],
+				[
+					"Dead Verse",
+					"Run: main"
+				],
+				[
+					"Dead Verse",
+					"Run under LLDB: main"
+				],
+				[
+					"Dead Verse",
+					"ctest"
+				]
+			],
+			[
+				"Dead Verse",
+				"Build"
+			]
+		],
+		[
+			[
+				[
+					"Dead Verse",
+					""
+				],
+				[
+					"Dead Verse",
+					"Run"
+				],
+				[
+					"Dead Verse",
+					"Run: main"
+				],
+				[
+					"Dead Verse",
+					"Run under LLDB: main"
+				],
+				[
+					"Dead Verse",
+					"ctest"
+				]
+			],
+			[
+				"Dead Verse",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"Build"
+				],
+				[
+					"Debug",
+					"Run"
+				],
+				[
+					"Debug",
+					"Run Debugger"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"Build"
+				],
+				[
+					"Release",
+					"Run"
+				]
+			],
+			[
+				"Debug",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"Build"
+				],
+				[
+					"Debug",
+					"Run"
+				],
+				[
+					"Debug",
+					"Run Debugger"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"Build"
+				],
+				[
+					"Release",
+					"Run"
+				],
+				[
+					"Run Root",
+					""
+				]
+			],
+			[
+				"Run Root",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"Build"
+				],
+				[
+					"Debug",
+					"Run"
+				],
+				[
+					"Debug",
+					"Run LLDB"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"Build"
+				],
+				[
+					"Release",
+					"Run"
+				]
+			],
+			[
+				"Debug",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"Build"
+				],
+				[
+					"Debug",
+					"Run Root"
+				],
+				[
+					"Debug",
+					"Run"
+				],
+				[
+					"Debug",
+					"Run Debugger"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"Build"
+				],
+				[
+					"Release",
+					"Run"
+				]
+			],
+			[
+				"Debug",
+				"Run Root"
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"Build"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"Build"
+				],
+				[
+					"Release",
+					"Run"
+				],
+				[
+					"Run",
+					""
+				]
+			],
+			[
+				"Debug",
+				"Build"
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"main"
+				],
+				[
+					"Debug",
+					"Run Musashi (From Root)"
+				],
+				[
+					"Debug",
+					"Run: main"
+				],
+				[
+					"Debug",
+					"Run under LLDB: main"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"main"
+				],
+				[
+					"Release",
+					"Run: main"
+				]
+			],
+			[
+				"Debug",
+				"Run Musashi (From Root)"
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"main"
+				],
+				[
+					"Debug",
+					"Run: main"
+				],
+				[
+					"Debug",
+					"Run under LLDB: main"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"main"
+				],
+				[
+					"Release",
+					"Run: main"
+				]
+			],
+			[
+				"Debug",
+				"Run: main"
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"main"
+				],
+				[
+					"Debug",
+					"Run: main"
+				],
+				[
+					"Debug",
+					"Run under LLDB: main"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"main"
+				],
+				[
+					"Release",
+					"Run: main"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Debug",
+				"Run: main"
+			]
+		],
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Debug",
+					"main"
+				],
+				[
+					"Debug",
+					"Run: main"
+				],
+				[
+					"Debug",
+					"Run under LLDB: main"
+				],
+				[
+					"Debug",
+					"ctest"
+				],
+				[
+					"Release",
+					""
+				],
+				[
+					"Release",
+					"main"
+				],
+				[
+					"Release",
+					"Run: main"
+				],
+				[
+					"Release",
+					"Run under LLDB: main"
+				],
+				[
+					"Release",
+					"ctest"
+				]
+			],
+			[
+				"Debug",
+				"main"
+			]
+		],
+		[
+			[
+				[
+					"Debug Build",
+					""
+				],
+				[
+					"Debug Build",
+					"ctest"
+				],
+				[
+					"Release Build",
+					""
+				],
+				[
+					"Run",
+					""
+				]
+			],
+			[
+				"Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Debug Build",
+					""
+				],
+				[
+					"Debug Build",
+					"ctest"
+				],
+				[
+					"Release Build",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Debug Build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Debug Build",
+					""
+				],
+				[
+					"Release Build",
+					""
+				],
+				[
+					"Run",
+					""
+				]
+			],
+			[
+				"Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Debug Build",
+					""
+				],
+				[
+					"Release Build",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"Run"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"ctest"
+				]
+			],
+			[
+				"Default",
+				"uninstall"
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"Run"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"update_mappings"
+				],
+				[
+					"Default",
+					"ctest"
+				]
+			],
+			[
+				"Default",
+				"game"
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"Run Musashi"
+				],
+				[
+					"Default",
+					"glad"
+				],
+				[
+					"Default",
+					"glfw"
+				],
+				[
+					"Default",
+					"glm"
+				],
+				[
+					"Default",
+					"imgui"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"update_mappings"
+				],
+				[
+					"Default",
+					"ctest"
+				]
+			],
+			[
+				"Default",
+				"main"
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"glad"
+				],
+				[
+					"Default",
+					"glfw"
+				],
+				[
+					"Default",
+					"glm"
+				],
+				[
+					"Default",
+					"imgui"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"update_mappings"
+				],
+				[
+					"Default",
+					"ctest"
+				]
+			],
+			[
+				"Default",
+				"Run under LLDB: main"
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"glm"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"ctest"
+				]
+			],
+			[
+				"Default",
+				"Run: main"
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"glm"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"ctest"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Default",
+				"Run: main"
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"ctest"
+				]
+			],
+			[
+				"Default",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"ctest"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Default",
+				"main"
+			]
+		],
+		[
+			[
+				[
+					"Default",
+					""
+				],
+				[
+					"Default",
+					"game"
+				],
+				[
+					"Default",
+					"main"
+				],
+				[
+					"Default",
+					"Run: main"
+				],
+				[
+					"Default",
+					"Run under LLDB: main"
+				],
+				[
+					"Default",
+					"uninstall"
+				],
+				[
+					"Default",
+					"update_mappings"
+				],
+				[
+					"Default",
+					"ctest"
+				]
+			],
+			[
+				"Default",
+				"main"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"terminus opne",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"t",
+				"Terminal: Open in project folder"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"key",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"debu",
+				"Debugger: Open"
+			],
+			[
+				"rest",
+				"LSP: Restart Server"
+			],
+			[
+				"prefrences",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp set",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp settings",
+				"Preferences: LSP Settings"
+			],
+			[
+				"r",
+				"LSP: Restart Server"
+			],
+			[
+				"LSP: inl",
+				"LSP: Toggle Inlay Hints"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"clang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"setSyntax",
+				"Set Syntax: C++"
+			],
+			[
+				"res",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"clangd",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"lsp key",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"clsp key",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"lsp header",
+				"LSP-clangd: Switch to Source/Header"
+			],
+			[
+				"lsp res",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp-",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lsp keys",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Debugger: Install Adapters"
+			],
+			[
+				"de",
+				"Debugger: Open"
+			],
+			[
+				"debug",
+				"Debugger: Open"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"terminius",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"GitSavvy",
+				"Preferences: GitSavvy Example Key Bindings"
+			],
+			[
+				"gitsa",
+				"GitSavvy: view recorded log"
+			],
+			[
+				"cmakebuilder se",
+				"Preferences: CMakeBuilder"
+			],
+			[
+				"camke",
+				"CMakeBuilder: Configure"
+			],
+			[
+				"cmake",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"open",
+				"Debugger: Open"
+			],
+			[
+				"debugger",
+				"Debugger: LLDB Display Options"
+			],
+			[
+				"build",
+				"Preferences: CMakeBuilder"
+			],
+			[
+				"color",
+				"Colored Comments: Edit Color Scheme"
+			],
+			[
+				"colored",
+				"Colored Comments: Edit Color Scheme"
+			],
+			[
+				"high",
+				"HighlightWords: Highlight Words"
+			],
+			[
+				"hight",
+				"HighlightWords: Unhighlight Words"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"lsp ke",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"debugg",
+				"Debugger: Open"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"cmake bui",
+				"CMakeBuilder: Configure"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"run",
+				"Build With: Default - Run: main"
+			],
+			[
+				"debugger start",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"Debugger insta",
+				"Debugger: Install Adapters"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ints",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings"
+			],
+			[
+				":q",
+				"Set Syntax: Cassandra Query Language"
+			],
+			[
+				"prefrences ",
+				"Preferences: Settings"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 267.0,
+		"history":
+		[
+			"Running ",
+			"clear",
+			"?",
+			"Package Control: Install Package",
+			"exit",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/arielkriheli/Projects/kern",
+		"/Users/arielkriheli/Projects/kern/xv6-labs-2025"
+	],
+	"file_history":
+	[
+		"/Users/arielkriheli/Projects/kern/xv6-labs-2025/Makefile",
+		"/Users/arielkriheli/Projects/kern/xv6-labs-2025/kernel/sleeplock.c",
+		"/Users/arielkriheli/Projects/kern/xv6-labs-2025/kernel/spinlock.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/shader.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/renderer.cc",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/renderer.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/sprite.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/entity/component_manager.h",
+		"/Users/arielkriheli/Projects/musashi/src/main.cc",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/game/world.cc",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/texture.cc",
+		"/Users/arielkriheli/Projects/musashi/assets/shaders/object/frag.glsl",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/game/game.cc",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/mesh.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/shader.cc",
+		"/Users/arielkriheli/Projects/musashi/assets/shaders/object/vert.glsl",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector.h",
+		"/Users/arielkriheli/Projects/musashi/dead_verse.sublime-project",
+		"/Users/arielkriheli/Projects/musashi/CMakeLists.txt",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/platform/platform.cc",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/platform/platform.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/platform/window.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/platform/window.cc",
+		"/Users/arielkriheli/Projects/musashi/src/CMakeLists.txt",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/global.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/util/log.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/entity/components.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/util/camera.cc",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/util/camera.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/renderer/texture.h",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/util/time.h",
+		"/Users/arielkriheli/Projects/musashi/.gitignore",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/entity/entity_manager.h",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/string.h",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/limits",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdint",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/move.h",
+		"/Users/arielkriheli/Projects/musashi/.clang-format",
+		"/Users/arielkriheli/Projects/musashi/src/dead_verse/dead_verse.sublime-project",
+		"/Users/arielkriheli/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/arielkriheli/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"U/echo.c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "xv6-labs-2025/user/sleep.c",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"auto_name": "",
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/arielkriheli/Projects/kern/xv6-labs-2025/user/sleep.c",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "xv6-labs-2025/user/echo.c",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/arielkriheli/Projects/kern/xv6-labs-2025/user/echo.c",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Compile":
+	{
+		"height": 322.0,
+		"history":
+		[
+		]
+	},
+	"output.Debugger":
+	{
+		"height": 478.0,
+		"history":
+		[
+		]
+	},
+	"output.Debugger Console":
+	{
+		"height": 322.0,
+		"history":
+		[
+		]
+	},
+	"output.Debugger Terminal":
+	{
+		"height": 322.0,
+		"history":
+		[
+		]
+	},
+	"output.Debugger Terminal(1)":
+	{
+		"height": 322.0,
+		"history":
+		[
+		]
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.Terminus":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 247.0,
+		"history":
+		[
+		]
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.help":
+	{
+		"height": 154.0,
+		"history":
+		[
+		]
+	},
+	"output.main":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "kern.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"make",
+				"xv6-labs-2025/Makefile"
+			],
+			[
+				"sleep",
+				"xv6-labs-2025/kernel/sleeplock.c"
+			],
+			[
+				"main",
+				"src/main.cc"
+			],
+			[
+				"compo",
+				"src/dead_verse/entity/component_manager.h"
+			],
+			[
+				"text",
+				"src/dead_verse/renderer/texture.cc"
+			],
+			[
+				"game.cc",
+				"src/dead_verse/game/game.cc"
+			],
+			[
+				"texture",
+				"src/dead_verse/renderer/texture.cc"
+			],
+			[
+				"frag",
+				"assets/shaders/object/frag.glsl"
+			],
+			[
+				"render",
+				"src/dead_verse/renderer/renderer.h"
+			],
+			[
+				"shader",
+				"src/dead_verse/renderer/shader.cc"
+			],
+			[
+				"shader.cc",
+				"src/dead_verse/renderer/shader.cc"
+			],
+			[
+				"vert",
+				"assets/shaders/object/vert.glsl"
+			],
+			[
+				"world",
+				"src/dead_verse/game/world.cc"
+			],
+			[
+				".glsl",
+				"assets/shaders/object/vert.glsl"
+			],
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"platform",
+				"src/dead_verse/platform/platform.h"
+			],
+			[
+				"cmake src",
+				"src/CMakeLists.txt"
+			],
+			[
+				"glob",
+				"src/dead_verse/global.h"
+			],
+			[
+				"log",
+				"src/dead_verse/util/log.h"
+			],
+			[
+				"ren",
+				"src/dead_verse/renderer/renderer.h"
+			],
+			[
+				"sprite",
+				"src/dead_verse/renderer/sprite.h"
+			],
+			[
+				"camera.cc",
+				"src/dead_verse/util/camera.cc"
+			],
+			[
+				"platfotm",
+				"src/dead_verse/platform/platform.cc"
+			],
+			[
+				"game",
+				"src/dead_verse/game/game.cc"
+			],
+			[
+				"camera",
+				"src/dead_verse/util/camera.cc"
+			],
+			[
+				"camer",
+				"src/dead_verse/util/camera.cc"
+			],
+			[
+				"spri",
+				"src/dead_verse/renderer/sprite.h"
+			],
+			[
+				"game/",
+				"src/dead_verse/game/world.cc"
+			],
+			[
+				"gmae.cc",
+				"src/dead_verse/game/game.cc"
+			],
+			[
+				"main.cc",
+				"src/main.cc"
+			],
+			[
+				"",
+				".clang-format"
+			],
+			[
+				"camke",
+				"CMakeLists.txt"
+			],
+			[
+				"sublime",
+				"src/dead_verse/dead_verse.sublime-project"
+			],
+			[
+				"rend",
+				"src/dead_verse/renderer/renderer.cc"
+			],
+			[
+				"renderer",
+				"src/dead_verse/renderer/renderer.cc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": true
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
