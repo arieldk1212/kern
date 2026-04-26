@@ -68,4 +68,6 @@ barrier
 *.dSYM
 *.pcap
 TAGS
+kern.sublime-workspace
+kern.sublime-project
 
