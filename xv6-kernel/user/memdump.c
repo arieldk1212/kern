@@ -55,23 +55,42 @@ int main(int argc, char* argv[]) {
 }
 
 void memdump(char* fmt, char* data) {
-  // GOAL: print  contents of the data inside ptr in the desired fmt
-  // 1. format is passed as C string, each char defines how to print parts of
-  // the data Your code here.
+  for (; *fmt != '\0'; fmt++) {
+    switch (*fmt) {
+      case 'i': {
+        printf("%d\n", *(uint32*)data);
+        data += sizeof(uint32);
+        break;
+      }
 
-  for (int i = 0; i < sizeof(fmt); i++) {
-    int num = 0;
-    char current = fmt[i];
-    char current_data = data[i];
+      case 'p': {
+        printf("%lx\n", *(uint64*)data);
+        data += sizeof(uint64);
+        break;
+      }
 
-    switch (current) {
-      case 'i':
+      case 'h': {
+        printf("%d\n", *(uint16*)data);
+        data += sizeof(uint16);
+        break;
+      }
 
-      case 'p':
-      case 'h':
-      case 'c':
-      case 's':
-      case 'S':
+      case 'c': {
+        printf("%c\n", *(uchar*)data);
+        data += sizeof(uchar);
+        break;
+      }
+
+      case 's': {
+        uint64* ptr = (uint64*)data;
+        printf("%s\n", (char*)*ptr);
+        data += sizeof(uint64);
+        break;
+      }
+
+      case 'S': {
+        printf("%s\n", data);
+      }
     };
   }
 }
